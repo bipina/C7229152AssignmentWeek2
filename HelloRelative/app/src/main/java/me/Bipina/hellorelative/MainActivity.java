@@ -1,4 +1,4 @@
-package me.mahakagg.hellorelative;
+package me.Bipina.hellorelative;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -7,6 +7,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.Locale;
+
+import me.mahakagg.hellorelative.R;
 
 public class MainActivity extends AppCompatActivity {
     private int mCount = 0;
