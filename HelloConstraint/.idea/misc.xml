@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/subed/AndroidStudioProjects/C7229152Assignment/Week2/HelloConstraint/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/subed/AndroidStudioProjects/C7229152Assignment/Week2/HelloConstraint/app/src/main/res/layout-xlarge/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/subed/AndroidStudioProjects/C7229152Assignment/Week2/HelloConstraint/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/subed/AndroidStudioProjects/android-fundamentals-apps-v2-master/HelloToastChallenge2/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/subed/AndroidStudioProjects/android-fundamentals-apps-v2-master/HelloToastChallenge2/app/src/main/res/layout-xlarge/activity_main.xml" value="0.1" />
