@@ -1,7 +1,9 @@
-package me.mahakagg.helloconstraintHW;
+package me.Bipina.helloconstraintHW;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import me.mahakagg.helloconstraintHW.R;
 
 public class SecondActivity extends AppCompatActivity {
 
